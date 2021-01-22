@@ -39,7 +39,7 @@ h1 {
 #name {
     font-size: 30px;
     line-height: 1.2;
-    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Cinzel Decorative', cursive;
 
 }
 
@@ -82,7 +82,7 @@ p {
 
 
 .menu {
-   list-style: none;
+   
     
     font-family: sans-serif;
     position:absolute;
